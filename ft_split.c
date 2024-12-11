@@ -79,7 +79,7 @@ char	**ft_split(char const *s, char c)
 	size_t	num_subs;
 	char	**substrs;
 
-	if (!s || !c)
+	if (!s)
 		return (NULL);
 	num_subs = num_substrs(s, c);
 	substrs = (char **)malloc(sizeof(char *) * (num_subs + 1));
