@@ -6,7 +6,7 @@
 /*   By: jesssanc <jesssanc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/03 10:33:58 by jesssanc          #+#    #+#             */
-/*   Updated: 2024/12/03 11:20:37 by jesssanc         ###   ########.fr       */
+/*   Updated: 2024/12/18 13:02:06 by jesssanc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -150,3 +150,4 @@ int	main(void)
 
 	return (0);
 }
+// gcc -Wall -Wextra -Werror main.c libft.a //
